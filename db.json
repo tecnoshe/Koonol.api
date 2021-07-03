@@ -1,0 +1,31 @@
+{
+  "Articulos":[
+    {
+      "Id": 0,
+      "Name": "Cafés de origen",
+      "Café": "Orgánico tostado y molido",
+      "Café": "Orgánico gourmet tostado y molido",
+      "Café": "Orgánico en grano tostado",
+      "Café": "Liofilizado",
+      "Café": "Orgánico soluble",
+    }
+    ]
+  {
+      "Id": 1,
+      "Name": "De Cacao",
+      "Chocolate": "Chocolate miel con cacao untable",
+      "Nibs": "Nibs de cacao",
+      "Barra": "Barra de licor de cacao",
+      "Barra": "Barra de licor de cacao",
+      "Barra": "Barra de Chocolate de mesa",
+}
+{
+      "Id": 2,
+      "Name": "Miel de abeja",
+      "Miel": "",
+      "Miel": "Nibs de cacao",
+      "Miel": "Barra de licor de cacao",
+      "Miel": "Barra de licor de cacao",
+      "Miel": "Barra de Chocolate de mesa",
+
+
